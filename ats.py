@@ -7,7 +7,7 @@ from PIL import Image
 import pdf2image
 import google.generativeai as genai
 
-# Load API key from environment variables
+# Load API key from environment variables get the api key from gemini ai model
 load_dotenv()
 genai.configure(api_key=os.getenv("API_KEY"))
 
@@ -39,8 +39,8 @@ def input_pdf_setup(uploaded_file):
     else:
         raise FileNotFoundError("No file uploaded")
 
-# Streamlit App
-st.set_page_config(page_title="ATS Resume Expert", page_icon=":briefcase:", layout="wide", menu_items=None)
+# Set Streamlit App
+st.set_page_config(page_title="ResumeSmart Evaluator", page_icon=":briefcase:", layout="wide", menu_items=None)
 
 # Custom CSS for enhanced design
 st.markdown("""
