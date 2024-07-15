@@ -28,7 +28,7 @@ The **ResumeSmart Evaluator** is an AI-powered tool that analyzes resumes and jo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ResumeSmart-Evaluator.git
+   git clone https://github.com/arnab-4/ResumeSmart-Evaluator.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -53,7 +53,7 @@ The **ResumeSmart Evaluator** is an AI-powered tool that analyzes resumes and jo
 6. **Set Up Environment Variable:**
    - Create a `.env` file in the root directory and add your API key:
      ```
-     API_KEY=your_gemini_api_key_here
+     GOOGLE_API_KEY=your_gemini_api_key_here
      ```
 
 7. **Run the Application:**
