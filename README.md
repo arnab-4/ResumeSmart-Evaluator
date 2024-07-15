@@ -1,9 +1,8 @@
 
-
 # ResumeSmart Evaluator
+![ResumeSmart Evaluator](https://raw.githubusercontent.com/arnab-4/ATS_Resume_Expert/main/Jobmatch-analyzer.jpg)
 
 The **ResumeSmart Evaluator** is an AI-powered tool that analyzes resumes and job descriptions, providing valuable insights to job seekers. Here's what it offers:
-
 ## Features
 
 1. **Resume Parsing and Analysis:**
@@ -77,3 +76,7 @@ This application is intended for informational purposes only. The analysis and f
 ---
 
 Feel free to customize this README further based on your project's specifics. Good luck with your **ResumeSmart Evaluator**! If you need any more assistance, just let me know. 😊
+
+![ResumeSmart Evaluator Screenshot](https://raw.githubusercontent.com/arnab-4/ATS_Resume_Expert/main/Screenshot%202024-07-15%20171114.png)
+
+Is there anything else you'd like to add or modify? 🚀
